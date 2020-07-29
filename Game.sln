@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29806.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Pinger", "Pinger\Pinger.csproj", "{8801AA80-AAE3-49DF-9FFB-345CC6A41323}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ponger", "Ponger\Ponger.csproj", "{36780D2A-D484-40C3-8921-2D1E14F01AFC}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RabbitMQ.Wrapper", "RabbitMQ.Wrapper\RabbitMQ.Wrapper.csproj", "{8022D88F-DB71-4AFE-A087-5407B866BB8C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8801AA80-AAE3-49DF-9FFB-345CC6A41323}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8801AA80-AAE3-49DF-9FFB-345CC6A41323}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8801AA80-AAE3-49DF-9FFB-345CC6A41323}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8801AA80-AAE3-49DF-9FFB-345CC6A41323}.Release|Any CPU.Build.0 = Release|Any CPU
+		{36780D2A-D484-40C3-8921-2D1E14F01AFC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{36780D2A-D484-40C3-8921-2D1E14F01AFC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{36780D2A-D484-40C3-8921-2D1E14F01AFC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{36780D2A-D484-40C3-8921-2D1E14F01AFC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8022D88F-DB71-4AFE-A087-5407B866BB8C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8022D88F-DB71-4AFE-A087-5407B866BB8C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8022D88F-DB71-4AFE-A087-5407B866BB8C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8022D88F-DB71-4AFE-A087-5407B866BB8C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {318E810D-5D74-4664-8A57-815477DBA0AB}
+	EndGlobalSection
+EndGlobal
